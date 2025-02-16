@@ -17,13 +17,13 @@ body.fh5co-overflow {
 }
 
 a {
-  color: #fb6e14;
+  color: #173109;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:focus, a:active {
-  color: #bf4c03;
+  color: #173109;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -63,21 +63,21 @@ p {
 }
 
 .btn-primary {
-  background: #fb6e14;
+  background: #173109;
   color: #fff;
-  border: 2px solid #fb6e14;
+  border: 2px solid #173109;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #f16104 !important;
-  border-color: #f16104 !important;
+  background: #173109 !important;
+  border-color: #173109 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #fb6e14;
-  border: 2px solid #fb6e14;
+  color: #173109;
+  border: 2px solid #173109;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #fb6e14;
+  background: #173109;
   color: #fff;
 }
 
@@ -182,7 +182,7 @@ p {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #fb6e14;
+  border-color: #173109;
 }
 
 /*
@@ -242,11 +242,11 @@ p {
 }
 #fh5co-home .flexslider .fh5co-text h2 span {
   font-family: "Playfair Display", serif;
-  font-style: italic;
+  color: #173109;
   text-transform: none;
 }
 #fh5co-home .flexslider .fh5co-text h2 a {
-  color: #fb6e14;
+  color: #173109;
 }
 #fh5co-home .flexslider .slides li {
   background-repeat: no-repeat;
@@ -260,7 +260,7 @@ p {
   left: 0;
   right: 0;
   opacity: .5;
-  background: #000;
+  background: #3f7116;
 }
 #fh5co-home .flexslider .flex-control-nav,
 #fh5co-home .flexslider .flex-direction-nav {
@@ -321,7 +321,7 @@ p {
 .fh5co-main-nav .fh5co-menu-1 a.active,
 .fh5co-main-nav .fh5co-menu-2 a.active,
 .fh5co-main-nav .fh5co-logo a.active {
-  color: #fb6e14;
+  color: #173109;
 }
 .fh5co-main-nav .fh5co-menu-1 {
   text-align: right;
@@ -367,7 +367,7 @@ p {
   width: 40px;
   height: 2px;
   left: 50%;
-  background: #fb6e14;
+  background: #173109;
   margin-left: -20px;
 }
 .fh5co-heading .sub-heading {
@@ -404,7 +404,7 @@ p {
 #fh5co-about .fh5co-text {
   padding: 2em 6em;
   text-align: left;
-  background: #130d08 url(../images/wood_1.png) repeat;
+  background: #130d08;
 }
 @media screen and (max-width: 1200px) {
   #fh5co-about .fh5co-text {
@@ -430,7 +430,7 @@ p {
   width: 40px;
   height: 2px;
   left: 50%;
-  background: #fb6e14;
+  background: #173109;
   margin-left: -20px;
 }
 #fh5co-about .fh5co-text p {
@@ -533,12 +533,12 @@ p {
   position: relative;
   background: transparent;
   box-shadow: none;
-  border: 2px solid #fb6e14;
+  border: 2px solid #173109;
 }
 
 #fh5co-featured {
   padding: 7em 0;
-  background: #130d08 url(../images/wood_1.png) repeat;
+  background: #130d08;
 }
 @media screen and (max-width: 768px) {
   #fh5co-featured {
@@ -595,7 +595,7 @@ p {
   height: 2px;
   left: 50%;
   margin-left: -20px;
-  background: #fb6e14;
+  background: #173109;
 }
 #fh5co-featured .fh5co-grid .arrow-left:before, #fh5co-featured .fh5co-grid .arrow-left::before {
   content: "";
@@ -879,7 +879,7 @@ p {
   width: 20%;
   text-align: right;
   font-size: 20px;
-  color: #fb6e14;
+  color: #173109;
 }
 
 #fh5co-events {
@@ -960,7 +960,7 @@ p {
 }
 #fh5co-events .fh5co-event .fh5co-event-meta:after, #fh5co-events .fh5co-event .fh5co-event-meta::after {
   background: #bfbfbf;
-  background: #fb6e14;
+  background: #173109;
   content: "";
   position: absolute;
   left: 50%;
@@ -1047,7 +1047,7 @@ p {
 
 #fh5co-footer {
   width: 100%;
-  background: rgba(0, 0, 0, 0.9);
+  background: #130d08;
   padding: 7em 0;
   z-index: 1;
   font-size: 14px;
@@ -1128,10 +1128,10 @@ p {
 #fh5co-offcanvas a:hover, #fh5co-offcanvas a:focus, #fh5co-offcanvas a:active {
   outline: none;
   text-decoration: none;
-  color: #fb6e14;
+  color: #173109;
 }
 #fh5co-offcanvas a.active {
-  color: #fb6e14;
+  color: #173109;
 }
 @media screen and (max-width: 768px) {
   #fh5co-offcanvas {
@@ -1260,7 +1260,7 @@ p {
   margin: 0 auto;
   display: none;
   border-bottom: none !important;
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(0, 0, 0, 0.879);
   padding: 0px 10px 10px 10px;
   cursor: pointer;
   -webkit-border-radius: 4px;
