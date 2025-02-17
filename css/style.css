@@ -895,7 +895,7 @@ p {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.7);
+  background: #3f7116;
   z-index: 9;
 }
 #fh5co-events > .container {
@@ -1287,7 +1287,7 @@ p {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.7);
+  background: #130d08;
   z-index: 9;
 }
 #fh5co-type > .container {
