@@ -20,6 +20,10 @@ display: none;
   font-style: italic;
   width: 100%;
 }
+.linkVoltar{
+  margin-bottom: 0px;
+  padding-top: 50px;
+}
 #titulo h1{
   font-family: "Playfair Display", serif;
   font-size: 70px;
@@ -40,4 +44,5 @@ display: none;
     font-size: 45px;
   }
 }
+
   
