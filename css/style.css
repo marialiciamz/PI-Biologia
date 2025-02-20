@@ -404,7 +404,7 @@ p {
 #fh5co-about .fh5co-text {
   padding: 2em 6em;
   text-align: left;
-  background: #4d311b;
+  background: #211207;
 }
 @media screen and (max-width: 1200px) {
   #fh5co-about .fh5co-text {
@@ -538,7 +538,7 @@ p {
 
 #fh5co-featured {
   padding: 7em 0;
-  background: ;
+  background: #211207;
 }
 @media screen and (max-width: 768px) {
   #fh5co-featured {
@@ -1032,7 +1032,7 @@ font-style:normal;
 
 #fh5co-footer {
   width: 100%;
-  background: #130d08;
+  background: #211207;
   padding: 7em 0;
   z-index: 1;
   font-size: 14px;
