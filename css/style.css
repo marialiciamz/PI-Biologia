@@ -538,7 +538,7 @@ p {
 
 #fh5co-featured {
   padding: 7em 0;
-  background: #4d311b;
+  background: ;
 }
 @media screen and (max-width: 768px) {
   #fh5co-featured {
@@ -1272,7 +1272,7 @@ font-style:normal;
   bottom: 0;
   left: 0;
   right: 0;
-  background: #4d311b;
+  background: #130d08;
   z-index: 9;
 }
 #fh5co-type > .container {
