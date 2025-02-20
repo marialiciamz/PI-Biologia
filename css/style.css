@@ -1326,6 +1326,18 @@ font-style:normal;
 #fh5co-type h3.with-icon.icon-4:before, #fh5co-type h3.with-icon.icon-4::before {
   background: url(../images/type-4.png) no-repeat center center;
 }
+#fh5co-type h3.with-icon.icon-5:before, #fh5co-type h3.with-icon.icon-5::before {
+  background: url(../images/type-4.png) no-repeat center center;
+}
+#fh5co-type h3.with-icon.icon-6:before, #fh5co-type h3.with-icon.icon-6::before {
+  background: url(../images/type-4.png) no-repeat center center;
+}
+#fh5co-type h3.with-icon.icon-7:before, #fh5co-type h3.with-icon.icon-7::before {
+  background: url(../images/type-4.png) no-repeat center center;
+}
+#fh5co-type h3.with-icon.icon-8:before, #fh5co-type h3.with-icon.icon-8::before {
+  background: url(../images/IMG3_ECO.jpg) no-repeat center center;
+}
 #fh5co-type p {
   color: rgba(255, 255, 255, 0.7);
 }
