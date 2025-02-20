@@ -1,5 +1,11 @@
 @charset "UTF-8";
 
+h2{
+  text-align: center;
+}
+.categ{
+  padding-bottom: 30px;
+}
 #fh5co-home .flexslider .fh5co-text h1{
   color: black;
 }
