@@ -8,7 +8,8 @@
 body {
   font-family: "Merriweather", serif;
   font-size: 18px;
-  font-weight: 300;
+  font-weight: 300px;
+  width: 100vw;
   line-height: 2;
   color: #5e493a;
 }
@@ -1335,7 +1336,7 @@ font-style:normal;
   background: url(../images/Teia\ \(1\).webp) no-repeat center center;
 }
 #fh5co-type h3.with-icon.icon-8:before, #fh5co-type h3.with-icon.icon-8::before {
-  background: url(../images/iconeciclo2\ \(1\).png) no-repeat center center;
+  background: url(../images/setaCirculo2.webp) no-repeat center center;
 }
 #fh5co-type p {
   color: rgba(255, 255, 255, 0.7);
